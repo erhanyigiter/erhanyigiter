@@ -1,6 +1,7 @@
 # 💫 About Me:
-I am studying artificial intelligence engineering at Nişantaşı University. I also continue my education to become a back end developer with the bootcamps I attend.
+I am a master's degree artificial intelligence engineer.
 
+I have an e-commerce site that I have been operating for 10 years. I provide services as a freelance full stack developer for your sites and projects as well as my own.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erhan.yigit.er) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erhanyigit-er) 
