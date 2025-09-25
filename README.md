@@ -1,7 +1,10 @@
 # 💫 About Me:
-I am a master's degree artificial intelligence engineer.
+Hey there 👋  
+I’m Erhan, an **AI Engineer** and full-stack developer. I love mixing **.NET APIs, React/Next.js frontends, and AI-powered solutions** to create real-world products.  
 
-I have an e-commerce site that I have been operating for 10 years. I provide services as a freelance full stack developer for your sites and projects as well as my own.
+🌍 From building proxy rental platforms to intelligent apps, I enjoy crafting projects that combine technology with business value.  
+⚡ Always curious, always learning – whether it’s system architecture, machine learning, or new ways to scale web projects.  
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erhan.yigit.er) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erhanyigit-er) 
